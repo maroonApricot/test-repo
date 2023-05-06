@@ -23,11 +23,4 @@ int main(){
             cout << "What emotion?";
             break;
         }
-    int a = 9;
-    int b = 8;
-    int &p = a;
-    p = b;
-    cout<<p;
-    
-
 }
