@@ -1,12 +1,9 @@
-
 #include <iostream>
 using namespace std;
 
 /*
   Problem: For each array given, what is the largest value?
-
   Use loops and conditionals!
-
 */ 
 
 int main(){
